@@ -17,7 +17,7 @@ npm run typescript
 
 3 run tests
 ```sh
-npm run test
+npm run test1111
 ```
 
 or pass 2 and 3 step
